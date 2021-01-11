@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Deep learning models
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Deep lerning algorithms
-- 🤔 I’m looking for help with Operating systems
+- 🤔 I’m looking for help with Data Science algorithms and techniques
 - 💬 Ask me about JavaScript, Python, Algorithmss and Anime 😄
 - 📫 How to reach me: LinkedIn: [Raghuraj Muni](https://www.linkedin.com/in/raghu-raj-muni)
 - ⚡ Fun fact: I use python more than what you C.
